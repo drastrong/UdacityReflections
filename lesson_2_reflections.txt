@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Get starts tracking it. You need to add files from the repo for git to track.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Its a holding area that can hold multiple files to be commited later. It's a better way to organize files.
